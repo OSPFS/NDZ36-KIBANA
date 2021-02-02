@@ -1,0 +1,4 @@
+---
+# vars file for kibana
+
+elastic_version: "7.10.1"

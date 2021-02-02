@@ -1,0 +1,4 @@
+---
+# defaults file for kibana
+
+kibana_home: "/opt/kibana/{{ elastic_version }}"
